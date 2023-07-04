@@ -46,3 +46,4 @@ This is a simple ERC-20 token contract implemented in Solidity. The contract all
 ## License
 
 This contract is licensed under the MIT License. SPDX-License-Identifier: MIT.
+loom video link, https://www.loom.com/share/a3c30abe258d43cba54595d1d13e60a6?sid=4125fcec-9eb0-40ec-b4e4-9f227fc869ed
