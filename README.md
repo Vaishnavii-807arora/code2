@@ -12,7 +12,7 @@ This is a simple ERC-20 token contract implemented in Solidity. The contract all
    
 3.The contract has a _mint_ function that increases the total supply and the balance of the "sender" address by a given value:
 
-      * Parameters:
+      - Parameters:
         - _address: The address to which the tokens will be minted.
         - _value: The amount of tokens to be minted.
       * Actions:
